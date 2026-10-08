@@ -1,0 +1,14 @@
+# Build output
+/bb-arsenal
+/dist/
+*.test
+*.out
+
+# Editors / OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Local logs
+*.log
